@@ -63,7 +63,7 @@ temiz_metin = metin_temizle(kuran_metni)
 
 # Stop kelimeleri çıkar
 nltk.download('stopwords')
-stop_kelimeler = set(stopwords.words('turkish'))
+stop_kelimeler = set(stopwords.words('arabic'))
 kelimeler = temiz_metin.split()
 kelimeler_filtrli = [kelime for kelime in kelimeler if kelime not in stop_kelimeler]
 
