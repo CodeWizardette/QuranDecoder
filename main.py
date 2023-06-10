@@ -78,11 +78,11 @@ for bigram in bigramler:
     bigram_frekanslar[bigram] += 1
 
 kelime_freksansi_grafik(bigram_frekanslar, en_cok=10)
-
 temiz_metin = metin_temizle(kuran_metni)
 kelime_uzunlugu_histogrami(temiz_metin)
 kelime_freksansi_grafik(temiz_metin)
 
 # Grafik gösterme yerine kaydetme
 plt.savefig("kelime_uzunlugu_histogrami.png")
-plt
+plt.show("bigramler")
+plt.savefig(ebcet_tablosu.png")
