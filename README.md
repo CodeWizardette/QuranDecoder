@@ -14,4 +14,4 @@ Quran Decoder is an AI-powered program that analyzes and decodes the Quran, prov
 
 4. Prophecies and Historical Accuracy: The Quran contains numerous prophecies and accurate historical accounts. Quran Decoder delves into these prophecies and historical references, offering a deeper understanding of their significance.
 
-
+PS. Im turkish then code is turkish !!!
