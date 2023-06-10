@@ -1,3 +1,5 @@
+بسم الله الرحمن الرحيم
+
 # Quran Decoder
 
 Quran Decoder is an AI-powered program that analyzes and decodes the Quran, providing insights and a new perspective on its content. This project focuses on uncovering the miraculous aspects of the Quran through computational analysis.
